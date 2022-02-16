@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-268-the-mathematics-in-toys-and-games-spring-2010/7e2bc0702dcc4718b597f3a98592aa09_MITES_268S10_Ses4_AI.pdf
+file: /media/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/7e2bc0702dcc4718b597f3a98592aa09_MITES_268S10_Ses4_AI.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ES.268 AI and game search, Course Notes 4
 uid: 7e2bc070-2dcc-4718-b597-f3a98592aa09
