@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: af5d1022-0bd3-bf5a-802c-68fd5e037397
 resourcetype: Document
 title: ES.268 Dynamic programming with impartial games, Course Notes 3
 uid: 7b7a8f43-661e-d9eb-64a4-2f24f64f2ae6

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: af5d1022-0bd3-bf5a-802c-68fd5e037397
 resourcetype: Document
 title: ES.268 Connect four and additional AI topics, Slides 5
 uid: 93065d11-435d-e67c-6e65-0adc02b6c202

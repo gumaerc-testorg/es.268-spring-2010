@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: af5d1022-0bd3-bf5a-802c-68fd5e037397
 resourcetype: Document
 title: ES.268 Theory of Impartial Games, Handout 1
 uid: 403b38e2-6e81-0396-7647-45e0ebdc0b29

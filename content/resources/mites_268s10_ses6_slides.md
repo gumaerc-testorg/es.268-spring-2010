@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: af5d1022-0bd3-bf5a-802c-68fd5e037397
 resourcetype: Document
 title: ES.268 Rubik's cube and group theory, Slides 6
 uid: 1871a3f6-1e24-890c-23f7-0be827159d7d
