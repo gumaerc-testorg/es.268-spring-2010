@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/91d992f1d8be60e2069ee56422ce08e9_MITES_268S10_ses9_slides.pdf
+file: /courses/es-268-the-mathematics-in-toys-and-games-spring-2010/91d992f1d8be60e2069ee56422ce08e9_MITES_268S10_ses9_slides.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
