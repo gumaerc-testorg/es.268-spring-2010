@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/es-268-the-mathematics-in-toys-and-games-spring-2010/93065d11435de67c6e650adc02b6c202_MITES_268S10_ses5_slides.pdf
+file_size: 987409
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
