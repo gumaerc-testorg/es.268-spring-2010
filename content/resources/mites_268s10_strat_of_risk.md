@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/es-268-the-mathematics-in-toys-and-games-spring-2010/fd52915d81aa5752bdbac32c54ba46f3_MITES_268S10_Strat_of_Risk.pdf
+file_size: 1144755
 file_type: application/pdf
 learning_resource_types:
 - Projects
