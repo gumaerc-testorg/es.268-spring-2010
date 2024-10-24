@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/es-268-the-mathematics-in-toys-and-games-spring-2010/1f1f1e2f9aa102f52da8056f0cfad64a_MITES_268S10_4Dcube.pdf
+file: /ol-ocw-studio-app/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/1f1f1e2f9aa102f52da8056f0cfad64a_MITES_268S10_4Dcube.pdf
 file_size: 616471
 file_type: application/pdf
 learning_resource_types:
