@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/es-268-the-mathematics-in-toys-and-games-spring-2010/a8eff8931ee89897a1a647791ad4476b_MITES_268S10_Ses6_Rubiks.pdf
+file: /ol-ocw-studio-app/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/a8eff8931ee89897a1a647791ad4476b_MITES_268S10_Ses6_Rubiks.pdf
 file_size: 412189
 file_type: application/pdf
 learning_resource_types:
