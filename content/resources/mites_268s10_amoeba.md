@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/f6bab42dc55228a129ad65fa799b866c_MITES_268S10_amoeba.pdf
+file: /courses/es-268-the-mathematics-in-toys-and-games-spring-2010/f6bab42dc55228a129ad65fa799b866c_MITES_268S10_amoeba.pdf
 file_size: 167511
 file_type: application/pdf
 learning_resource_types:
